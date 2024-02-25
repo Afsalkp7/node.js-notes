@@ -15,3 +15,6 @@
     - You can read files from file system with out waitng each file operation to be completed
 * UDP datagram (User Datagram Protocol) ? <br />
     - Which allow you to sent data through network asynchronously.
+
+# Event Loop in node js <br />
+<br />
