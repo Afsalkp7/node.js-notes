@@ -20,3 +20,10 @@
 # Event Loop in node js <br />
 
 <br />
+
+Mainly 5 authority :- <br />
+  * Main thread
+  * Event loop
+  * Event queue
+  * Callback execution
+  * Non-blocking I/O
